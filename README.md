@@ -4,7 +4,7 @@ This is my hobby project(2) to learn Java by creating `FlappyBird` game followin
 ## Whats used?
 Java + swing
 
-### How to run?
+## How to run?
 import the package in a JAVA IDE and run.
 
 <img width="823" alt="Screenshot 2023-05-31 at 22 18 18" src="https://github.com/rasi5050/FlappyBird/assets/12760472/b8617ea7-fba8-4fcd-944b-2eea4df96e9e">
